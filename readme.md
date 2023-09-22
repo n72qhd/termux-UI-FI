@@ -2,7 +2,10 @@ This script will install and configure termux-x11 on your device.
 
 
 REQUIREMENTS:
+
 Android 7 or newer;
+
+Stable internet connection;
 
 Termux (should be already installed on your device);
 
