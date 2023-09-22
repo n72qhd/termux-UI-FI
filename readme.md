@@ -1,4 +1,4 @@
-This script will install and configure termux-x11 on your device. .
+This script will install and configure termux-x11 on your device.
 
 
 REQUIREMENTS:
