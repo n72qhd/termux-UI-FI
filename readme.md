@@ -17,10 +17,14 @@ Installation:
 
 First of all, you'll need to install wget and nano.
 
+In order to do that you have to write "apt update && apt upgrade"
+
 Then do "nano .termux/termux.properties" (from your home folder), and uncomment "allow-external-apps=true".
 
 Then go to your home directory, and type "wget https://github.com/n72qhd/termux-UI-FI/releases/download/A/termux-x11FI.sh"
 Once it has finished downloading, write "chmod +x termux-x11FI.sh"
+
+Before executing the scripts, subscribe to additional repos: "pkg install root-repo", "pkg install x11-repo";
 
 Now you'll have to wait until it installs dependencies and additional packages.
 
