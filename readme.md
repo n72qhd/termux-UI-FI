@@ -24,7 +24,7 @@ Once it has finished downloading, write chmod +x termux-x11FI.sh
 
 Now you'll have to wait until it installs dependencies and additional packages.
 
-When it's done the script will prompt you to write ./startx.sh to launch XORG. Once you've launcher X window system, open termux-x11 and it should connect
+When it's done the script will prompt you to write ./startx.sh to launch XORG. Once you've launched X window system, open termux-x11 and it should connect
 
 to XFCE desktop enviroment. And if it does, congratulations, you've installed termux-x11!
 
